@@ -1,3 +1,5 @@
 # NYC-High-Schools
 
-(https://github.com/sunnyyan97/Answering-Business-Questions-with-SQL/blob/main/nychs.pdf)
+<img src="https://raw.githubusercontent.com/sunnyyan97/NYC-High-Schools/main/Screen%20Shot%202021-02-19%20at%203.23.36%20AM.png">
+<img src="https://raw.githubusercontent.com/sunnyyan97/NYC-High-Schools/main/Screen%20Shot%202021-02-19%20at%203.23.45%20AM.png">
+<img src="https://raw.githubusercontent.com/sunnyyan97/NYC-High-Schools/main/Screen%20Shot%202021-02-19%20at%203.24.06%20AM.png">
