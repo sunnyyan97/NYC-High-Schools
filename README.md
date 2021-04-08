@@ -6,3 +6,4 @@ Below is a dashboard that I created using Tableau from the combined dataset that
 
 <img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nychighschool.001.jpeg">
 
+My results reveal that the SAT is unfair for recent Immigrants and schools were most of the students are not native English speakers. 
